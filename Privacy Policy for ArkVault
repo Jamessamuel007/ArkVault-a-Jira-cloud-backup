@@ -1,0 +1,2 @@
+ArkVault processes and stores backup configurations and metadata within Atlassian Forge. No customer data is stored outside Atlassian infrastructure. 
+Customers are responsible for configuring external storage providers.
